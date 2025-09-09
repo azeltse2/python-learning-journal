@@ -1,0 +1,4 @@
+data types: integer 2; float 2.0; boolean true, false; string "2"
+operators: +,-,*,/,**,%-modulo, booelan >,<, == equal, != not equal
+/ float divison operator, // integer divisoon opeartor
+print function print()
